@@ -1,0 +1,7 @@
+# Cloth Size Prediction Using Hadoop and PySpark
+# Strictly adheres to PySpark MLlib and Apache Hadoop ecosystem
+# (No pandas, scikit-learn, TensorFlow, or external databases allowed)
+
+pyspark==3.5.1
+numpy>=1.24.0,<2.0.0
+py4j==0.10.9.7

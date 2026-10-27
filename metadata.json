@@ -1,0 +1,8 @@
+{
+  "name": "Cloth Size Prediction Using Hadoop and PySpark",
+  "description": "End-to-end distributed machine learning system for cloth size classification using Apache Hadoop HDFS and PySpark MLlib.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
